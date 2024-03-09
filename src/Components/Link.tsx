@@ -7,7 +7,7 @@ function Link() {
     console.log(inpEl.current);
   };
   return (
-    <div className="max-w-full p-[24px] mb-[80px] md:mb-[120px] md:px-[64px] rounded-[10px] bg-[url(link1.png)] md:bg-[url(link2.png)] md:py-[52px]">
+    <div className="max-w-full p-[24px] mb-[80px] md:mb-[120px] md:px-[64px] rounded-[10px] bg-[url(/link1.png)] md:bg-[url(/link2.png)] md:py-[52px]">
       <form className="flex flex-col md:flex-row ">
         <input
        

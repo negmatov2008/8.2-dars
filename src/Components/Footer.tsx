@@ -1,7 +1,7 @@
 function Footer() {
   return (
     <div className="flex max-w-full mx-0 flex-col">
-      <div className="max-w-full pt-[90px] pl-[24px]   pr-[24px] pb-[90px] min-h-[300px] md:px-[759px]  md:max-h-[230px] flex flex-col items-center md:justify-center gap-[16px] md:gap-[32px] bg-[url(foot.png)] bg-cover md:bg-[url(foot2.png)] bg-no-repeat">
+      <div className="max-w-full pt-[90px] pl-[24px]   pr-[24px] pb-[90px] min-h-[300px] md:px-[759px]  md:max-h-[230px] flex flex-col items-center md:justify-center gap-[16px] md:gap-[32px] bg-[url(/foot.png)] bg-cover md:bg-[url(/foot2.png)] bg-no-repeat">
         <h2 className="text-[28px] md:min-w-[540px] font-bold text-white leading-[48px] md:text-[40px]">
           Boost your links today
         </h2>
